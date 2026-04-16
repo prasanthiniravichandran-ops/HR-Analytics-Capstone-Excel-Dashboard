@@ -79,7 +79,7 @@ The dashboard is designed for **management and client reporting**, providing cle
 * Provides structured reporting for stakeholders and clients
 
 ## 📸 Dashboard Preview
-<img width="1366" height="768" alt="HR-Capstone" src="https://github.com/user-attachments/assets/cb9d09f3-05d6-439e-a78a-fc12f7443fe6" />
+<img width="1366" height="684" alt="HR-Capstone" src="https://github.com/user-attachments/assets/8b464ddd-02c3-48d1-97e3-a3f984a51d73" />
 
 ## 👩‍💼 About Me
 
